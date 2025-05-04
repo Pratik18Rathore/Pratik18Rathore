@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React website**
 
-- 🌱 I’m currently learning **React & DSA**
+- 🌱 I’m currently learning **Backend & DSA**
 
 - 💬 Ask me about **GSAP, Web**
 
