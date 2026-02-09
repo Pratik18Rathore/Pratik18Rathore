@@ -18,7 +18,7 @@
 - 📫 Reach me: **pratik18rathore@gmail.com**
 
 📄 **Resume:**  
-https://drive.google.com/file/d/1uFYvkTVKOz_k9uGqpGheAIVuL6bvT3XP/view?usp=drivesdk
+https://drive.google.com/file/d/1IqC93y1-UEhAoLWd1fN_sRu_sGAoDa4V/view?usp=drivesdk
 
 ---
 
